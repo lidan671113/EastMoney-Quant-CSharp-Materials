@@ -1,0 +1,7 @@
+D:\股票\东财量化\c#\winformtest1\TrendLineAnalyzer\obj\Debug\net8.0-windows\TrendLineAnalyzer.csproj.AssemblyReference.cache
+D:\股票\东财量化\c#\winformtest1\TrendLineAnalyzer\obj\Debug\net8.0-windows\TrendLineAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+D:\股票\东财量化\c#\winformtest1\TrendLineAnalyzer\obj\Debug\net8.0-windows\TrendLineAnalyzer.AssemblyInfoInputs.cache
+D:\股票\东财量化\c#\winformtest1\TrendLineAnalyzer\obj\Debug\net8.0-windows\TrendLineAnalyzer.AssemblyInfo.cs
+D:\股票\东财量化\c#\winformtest1\TrendLineAnalyzer\obj\Debug\net8.0-windows\TrendLineAnalyzer.csproj.CoreCompileInputs.cache
+D:\股票\东财量化\c#\winformtest1\TrendLineAnalyzer\obj\Debug\net8.0-windows\TrendLineAnalyzer.Form1.resources
+D:\股票\东财量化\c#\winformtest1\TrendLineAnalyzer\obj\Debug\net8.0-windows\TrendLineAnalyzer.csproj.GenerateResource.cache

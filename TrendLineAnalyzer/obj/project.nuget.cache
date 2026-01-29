@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b1gvP8lj4/M=",
+  "success": true,
+  "projectFilePath": "D:\\BaiduNetdiskDownload\\东财量化\\c#\\winformtest1\\TrendLineAnalyzer\\TrendLineAnalyzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\winforms.datavisualization\\1.10.0\\winforms.datavisualization.1.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
