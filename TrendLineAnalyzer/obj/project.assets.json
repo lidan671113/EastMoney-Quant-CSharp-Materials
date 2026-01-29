@@ -73,11 +73,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BaiduNetdiskDownload\\东财量化\\c#\\winformtest1\\TrendLineAnalyzer\\TrendLineAnalyzer.csproj",
+      "projectUniqueName": "D:\\github测试目录\\EastMoney-Quant-CSharp-Materials\\TrendLineAnalyzer\\TrendLineAnalyzer.csproj",
       "projectName": "TrendLineAnalyzer",
-      "projectPath": "D:\\BaiduNetdiskDownload\\东财量化\\c#\\winformtest1\\TrendLineAnalyzer\\TrendLineAnalyzer.csproj",
+      "projectPath": "D:\\github测试目录\\EastMoney-Quant-CSharp-Materials\\TrendLineAnalyzer\\TrendLineAnalyzer.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\BaiduNetdiskDownload\\东财量化\\c#\\winformtest1\\TrendLineAnalyzer\\obj\\",
+      "outputPath": "D:\\github测试目录\\EastMoney-Quant-CSharp-Materials\\TrendLineAnalyzer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
