@@ -145,7 +145,7 @@ namespace TrendLineAnalyzer
                     DataPoint dataPoint = chart1.Series["Price"].Points[idx];
 
                     // 设置悬停提示显示完整日期
-                    dataPoint.ToolTip = $"日期: {bar.eob:yyyy-MM-dd}\n开盘: {bar.open:F2}\n收盘: {bar.close:F2}\n最高: {bar.high:F2}\n最低: {bar.low:F2}";
+                    dataPoint.ToolTip = $"日期: {bar.eob:yyyy-MM-dd}\n开盘: {bar.open:F2}\n最高: {bar.high:F2}\n最低: {bar.low:F2}\n收盘: {bar.close:F2}";
 
                     // 每隔10个点或最后一个点显示日期标签
                     if (pointIndex % 10 == 0 || pointIndex == result.data.Count - 1)
