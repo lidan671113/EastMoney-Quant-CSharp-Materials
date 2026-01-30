@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "qdytYJA53zo=",
+  "dgSpecHash": "TKMaYcjcLAQ=",
   "success": true,
-  "projectFilePath": "D:\\github测试目录\\EastMoney-Quant-CSharp-Materials\\TrendLineAnalyzer\\TrendLineAnalyzer.csproj",
+  "projectFilePath": "/home/runner/work/EastMoney-Quant-CSharp-Materials/EastMoney-Quant-CSharp-Materials/TrendLineAnalyzer/TrendLineAnalyzer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Administrator\\.nuget\\packages\\winforms.datavisualization\\1.10.0\\winforms.datavisualization.1.10.0.nupkg.sha512"
+    "/home/runner/work/EastMoney-Quant-CSharp-Materials/.codeql-scratch/dbs/csharp/working/packages/winforms.datavisualization/1.10.0/winforms.datavisualization.1.10.0.nupkg.sha512",
+    "/home/runner/work/EastMoney-Quant-CSharp-Materials/.codeql-scratch/dbs/csharp/working/packages/microsoft.netcore.app.ref/8.0.23/microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
+    "/home/runner/work/EastMoney-Quant-CSharp-Materials/.codeql-scratch/dbs/csharp/working/packages/microsoft.windowsdesktop.app.ref/8.0.23/microsoft.windowsdesktop.app.ref.8.0.23.nupkg.sha512",
+    "/home/runner/work/EastMoney-Quant-CSharp-Materials/.codeql-scratch/dbs/csharp/working/packages/microsoft.aspnetcore.app.ref/8.0.23/microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512",
+    "/home/runner/work/EastMoney-Quant-CSharp-Materials/.codeql-scratch/dbs/csharp/working/packages/microsoft.netcore.app.host.linux-x64/8.0.23/microsoft.netcore.app.host.linux-x64.8.0.23.nupkg.sha512"
   ],
   "logs": []
 }
